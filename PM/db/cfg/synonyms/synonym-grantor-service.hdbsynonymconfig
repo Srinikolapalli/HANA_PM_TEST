@@ -1,0 +1,110 @@
+{
+    "algoma.pm::AFIH": {
+		 "target": {
+      "object": "AFIH",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::AFKO": {
+		"target": {
+      "object": "AFKO",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::AFVC": {
+		"target": {
+      "object": "AFVC",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::AFVV": {
+	  "target": {
+      "object": "AFVV",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::AUFK": {
+	 "target": {
+      "object": "AUFK",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::ILOA": {
+	 "target": {
+      "object": "ILOA",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::EQUI": {
+	 "target": {
+      "object": "EQUI",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::IFLOS": {
+	 "target": {
+      "object": "IFLOS",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::FMZUOB": {
+	 "target": {
+      "object": "FMZUOB",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::PMCO": {
+	 "target": {
+      "object": "PMCO",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::RESB": {
+	 "target": {
+      "object": "RESB",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::ZTBL_PM_ACT_TYPE": {
+	 "target": {
+      "object": "ZTBL_PM_ACT_TYPE",
+      "schema.configure": "grantor-service-custom-tables/schema"}},
+    "algoma.pm::ZSAC_TBL_PLAN_GRP_1": {
+	"target": {
+      "object": "ZSAC_TBL_PLAN_GRP_1",
+      "schema.configure": "grantor-service-custom-tables/schema"}},
+    "algoma.pm::ZTBL_PM_4WEEK_RPT_SNAPSHOT": {
+	"target": {
+      "object": "ZTBL_PM_4WEEK_RPT_SNAPSHOT",
+      "schema.configure": "grantor-service-custom-tables/schema"}},
+    "algoma.pm::JEST": {
+	"target": {
+      "object": "JEST",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::TJ02T": {
+	"target": {
+      "object": "TJ02T",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::TJ30T": {
+	"target": {
+      "object": "TJ30T",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::MHIS": {
+	"target": {
+      "object": "MHIS",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::MMPT": {
+	"target": {
+      "object": "MMPT",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::T006B": {
+	"target": {
+      "object": "T006B",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::ZTBL_PM_CYC_UNIT_CONV": {
+		"target": {
+      "object": "ZTBL_PM_CYC_UNIT_CONV",
+      "schema.configure": "grantor-service-custom-tables/schema"}},
+    "algoma.pm::MPLA": {
+	"target": {
+      "object": "MPLA",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::MPOS": {
+	"target": {
+      "object": "MPOS",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::T357M_T": {
+	"target": {
+      "object": "T357M_T",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::T353I_T": {
+	"target": {
+      "object": "T353I_T",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::ZPM20_DELINQ_ROS": {
+		"target": {
+      "object": "ZPM20_DELINQ_ROS",
+      "schema.configure" : "grantor-service-ecc/schema"}},
+    "algoma.pm::ZTBL_PM_KPI_TREND": {
+		"target": {
+      "object": "ZTBL_PM_KPI_TREND",
+      "schema.configure": "grantor-service-custom-tables/schema"}}
+}
